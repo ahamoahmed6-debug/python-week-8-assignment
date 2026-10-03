@@ -1,0 +1,21 @@
+============================================================
+                     TOOLKIT PROGRAM PLAN
+============================================================
+
+1. Selected Tools Descriptions:
+   - Tool 1: Number Guessing Game. An interactive game where the user guesses a secret random number between 1 and 20 with dynamic feedback.
+   - Tool 2: Task Tracker (To-Do List). A dynamic list manager where users can append tasks or clear them to manage their daily schedules.
+   - Tool 3: Name Formatter Pro. A utility that sanitizes messy user name inputs, capitalizing names cleanly and counting character lengths.
+
+2. Exact Menu Display Text:
+   --- PYTHON COGNITIVE TOOLKIT ---
+   1. Play Number Guessing Game
+   2. Open Task Tracker (To-Do List)
+   3. Run Name Formatter Pro
+   4. Quit Program
+   ---------------------------------
+
+3. Core Concepts Utilized per Tool:
+   - Number Guessing Game: loops (while), conditionals (if/elif/else), f-strings, import random.
+   - Task Tracker: lists (.append()), loops (while), conditionals, f-strings.
+   - Name Formatter Pro: string manipulation, conditionals, f-strings, functions.
